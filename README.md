@@ -1,3 +1,3 @@
-# `SCRIBBL.IO` Custom Terms
+# `SKRIBBL.IO` Custom Terms
 
-A bunch of Cards Againt Humanity inspired `SCRIBBL.IO` terms.
+A bunch of Cards Againt Humanity inspired `SKRIBBL.IO` terms.

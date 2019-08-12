@@ -20,7 +20,7 @@ ${sortedTermsString}
     writeFileSync(termsFile, sortedTermsString);
     console.log(`Wrote to "${termsFile}."`);
   } else {
-    process.exit(0);
+    process.exit(1);
   }
 } else {
   console.log("Already in alphabetical order");

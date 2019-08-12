@@ -18,6 +18,9 @@ ${sortedTermsString}
   }
   if (process.argv.includes("--write")) {
     writeFileSync(termsFile, sortedTermsString);
+    console.log(`Wrote to "${termsFile}."`);
+  } else {
+    process.exit(0);
   }
 } else {
   console.log("Already in alphabetical order");

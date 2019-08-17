@@ -1,4 +1,4 @@
-# `SKRIBBL.IO` Custom Terms [![Build Status](https://travis-ci.com/bad-word-lists/skribblio-terms.svg?branch=master)](https://travis-ci.com/bad-word-lists/skribblio-terms)
+# `SKRIBBL.IO` Custom Terms [![Build Status](https://travis-ci.com/cah-inspired-word-lists/skribblio-terms.svg?branch=master)](https://travis-ci.com/cah-inspired-word-lists/skribblio-terms)
 
 A bunch of Cards Againt Humanity inspired `SKRIBBL.IO` terms.
 
